@@ -4,6 +4,8 @@ import { S3 } from 'aws-sdk';
 
 const s3 = new S3();
 
+console.log("hola :wave:")
+
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   await app.listen(process.env.PORT ?? 3000);
