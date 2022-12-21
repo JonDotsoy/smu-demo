@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/JonDotsoy/smu-demo/compare/v1.0.0...v1.1.0) (2022-12-21)
+
+
+### Features
+
+* configure hello ([0c4ac23](https://github.com/JonDotsoy/smu-demo/commit/0c4ac2309bbe3d37617cbc720def8248e02291e5))
+* upgrade main ([0e16d2b](https://github.com/JonDotsoy/smu-demo/commit/0e16d2bc214720a9d62b1dd2dc55f3496b1b8d3c))
+
 ## 1.0.0 (2022-12-21)
 
 
